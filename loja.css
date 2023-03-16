@@ -1,0 +1,27 @@
+body{
+     background-color: aqua;
+
+}
+
+#imagemprincipal{
+    width:   1200px; 
+    height:  auto; ;
+    border:  1px solid #FFFFFF;
+    margin:  20px;
+    padding: 20px;
+    text-align: center;
+}
+
+#conteudo-principal{ 
+     width: 1400px;
+     height: auto;
+     float: left;
+     padding: 1px;
+     margin: 2px;
+ }
+ h1{
+    color: black;
+    
+
+ }
+
